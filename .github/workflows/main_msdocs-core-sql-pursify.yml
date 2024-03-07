@@ -69,4 +69,6 @@ jobs:
           app-name: 'msdocs-core-sql-Pursify'
           slot-name: 'Production'
           package: .
+        
+        
           
